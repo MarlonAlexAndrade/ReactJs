@@ -1,0 +1,21 @@
+form {
+  width: 500px;
+  margin: 30px auto;
+  text-align: center;
+}
+
+input{
+  margin-bottom: 10px;
+}
+
+ul{
+  list-style: none;
+  border: solid 1px #eeeeee;
+  width: 300px;
+  margin: 30px auto;
+  text-align: center;
+  padding: 0px;
+  border-radius: 5px;
+  padding: 5px;
+  box-shadow: 0px 0px 15px #eeeeee
+}
